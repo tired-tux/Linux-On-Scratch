@@ -1,3 +1,5 @@
+!!!THIS WAS NOT WRITTEN BY ME!!!
+
 # Linux-On-Scratch
 Linux for the blocky code language Scratch!
 
